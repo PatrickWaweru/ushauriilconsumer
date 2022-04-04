@@ -1,0 +1,6 @@
+/opt/develop/palladium/kenyaEMR/openmrs-module-ushauriilconsumer/api/src/main/java/org/openmrs/module/ushauriilconsumer/Item.java
+/opt/develop/palladium/kenyaEMR/openmrs-module-ushauriilconsumer/api/src/main/java/org/openmrs/module/ushauriilconsumer/api/UshauriILConsumerService.java
+/opt/develop/palladium/kenyaEMR/openmrs-module-ushauriilconsumer/api/src/main/java/org/openmrs/module/ushauriilconsumer/UshauriILConsumerConfig.java
+/opt/develop/palladium/kenyaEMR/openmrs-module-ushauriilconsumer/api/src/main/java/org/openmrs/module/ushauriilconsumer/api/impl/UshauriILConsumerServiceImpl.java
+/opt/develop/palladium/kenyaEMR/openmrs-module-ushauriilconsumer/api/src/main/java/org/openmrs/module/ushauriilconsumer/api/dao/UshauriILConsumerDao.java
+/opt/develop/palladium/kenyaEMR/openmrs-module-ushauriilconsumer/api/src/main/java/org/openmrs/module/ushauriilconsumer/UshauriILConsumerActivator.java

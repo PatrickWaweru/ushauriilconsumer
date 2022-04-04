@@ -1,0 +1,6 @@
+org/openmrs/module/ushauriilconsumer/api/impl/UshauriILConsumerServiceImpl.class
+org/openmrs/module/ushauriilconsumer/UshauriILConsumerConfig.class
+org/openmrs/module/ushauriilconsumer/api/dao/UshauriILConsumerDao.class
+org/openmrs/module/ushauriilconsumer/UshauriILConsumerActivator.class
+org/openmrs/module/ushauriilconsumer/api/UshauriILConsumerService.class
+org/openmrs/module/ushauriilconsumer/Item.class
